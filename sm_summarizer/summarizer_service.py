@@ -479,7 +479,14 @@ def _generate_llm_summary(keyword: str, posts: list[dict], mode: str = "summary"
 
     topic_label = " & ".join(label_parts).title() if label_parts else "Social Media Analysis"
     
-    if mode == "report":
+    is_detailed_report = mode in ("report", "detailed", "complete")
+
+    if is_detailed_report:
+        system_role = (
+            "You are a senior intelligence analyst producing comprehensive, highly detailed, and elaborative intelligence reports. "
+            "You provide exhaustive contextual breakdowns, strategic impact assessments, and thorough narrative explanations with numbered inline citations like (see [#1]). "
+            "You never provide brief or generic summaries, and you never include DATE headers, classification labels, document IDs, or TO/FROM/SUBJECT headers."
+        )
         prompt = f"""You are a senior intelligence analyst. Write an elaborative, highly detailed, and comprehensive intelligence report about "{topic_label}" based on the numbered social media posts below.
 
 FORMATTING AND DEPTH RULES (follow strictly):
@@ -499,30 +506,37 @@ FORMATTING AND DEPTH RULES (follow strictly):
 Monitored Posts:
 {formatted_posts}
 """
+        max_tok = 3500
     else:
-        prompt = f"""You are a senior intelligence analyst. Write an elaborative, highly detailed intelligence situation report about "{topic_label}" based on the numbered social media posts below.
+        # Crisp, short executive summary for daily digests and quick overviews
+        system_role = (
+            "You are a professional intelligence analyst. You write clean, concise, and factual situation summaries with numbered inline source citations like (see [#1]). "
+            "You focus strictly on the key facts in a crisp, direct manner. You never add DATE lines, classification labels, document IDs, or TO/FROM/SUBJECT headers."
+        )
+        prompt = f"""You are an intelligence analyst. Write a concise situation summary about "{topic_label}" based on the numbered social media posts below.
 
-FORMATTING AND DEPTH RULES (follow strictly):
-- Start with: SITUATION REPORT: {topic_label.upper()}
-- OVERVIEW: Write a comprehensive, multi-paragraph strategic overview explaining the overarching landscape, core developments, and the broader context.
-- DETAILED EVENT & TOPIC BREAKDOWN: Provide thorough, multi-paragraph analytical breakdowns of the individual events, statements, security postures, or policy shifts observed across the sources. Elaborate on the specifics: names, locations, quotes, statistics, and historical or geopolitical context. Explain why each development matters and how they interrelate.
-- STRATEGIC IMPLICATIONS & TRENDS: Provide an elaborate assessment of key implications, emerging patterns, and near-term trajectories for the involved actors and regions.
-- CITATIONS: After each factual statement, cite the corresponding post reference number like: (see [#1]) or (see [#3], [#7]).
-- Do NOT write a short or superficial summary. Provide thorough, substantive, and elaborative analysis.
+FORMATTING RULES (follow strictly):
+- Start with: SITUATION REPORT: {topic_label.upper()}\nOVERVIEW:
+- Write a crisp, short 2-3 paragraph factual summary capturing the key events, statements, and actions.
+- Keep the summary concise, direct, and quick to read.
+- After each factual statement, cite the source like: (see [#1]) or (see [#2]).
 - Do NOT include any DATE: header line, CLASSIFICATION labels, DOCUMENT ID, or TO/FROM/SUBJECT headers.
+- Synthesize all posts provided below directly into a compact briefing.
 
 Monitored Posts:
 {formatted_posts}
 """
+        max_tok = 900
+
     try:
         response = client.chat.completions.create(
             model=LLM_MODEL,
             messages=[
-                {"role": "system", "content": "You are a senior intelligence analyst producing comprehensive, highly detailed, and elaborative intelligence reports. You provide exhaustive contextual breakdowns, strategic impact assessments, and thorough narrative explanations with numbered inline citations like (see [#1]). You never provide brief or generic summaries, and you never include DATE headers, classification labels, document IDs, or TO/FROM/SUBJECT headers."},
+                {"role": "system", "content": system_role},
                 {"role": "user", "content": prompt}
             ],
             temperature=0.3,
-            max_tokens=3500
+            max_tokens=max_tok
         )
         summary_text = response.choices[0].message.content.strip()
         summary_text = re.sub(r'(?m)^DATE:\s*[^\n]*\n?', '', summary_text)
