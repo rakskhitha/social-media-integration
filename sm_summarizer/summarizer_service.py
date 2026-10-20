@@ -459,7 +459,7 @@ def _generate_llm_summary(keyword: str, posts: list[dict], mode: str = "summary"
     if not client:
         return f"Found {len(posts)} posts, but LLM client is not configured."
     
-    # Build numbered post list so LLM can cite by [#N]
+    # Build numbered post list with expanded content length so LLM has rich context
     formatted_posts = ""
     for i, p in enumerate(posts[:50], start=1):
         if hasattr(p['date'], 'strftime'):
@@ -468,7 +468,7 @@ def _generate_llm_summary(keyword: str, posts: list[dict], mode: str = "summary"
             raw_d = str(p.get('date', ''))[:10]
             parts = raw_d.split('-')
             date_str = f"{parts[2]}/{parts[1]}/{parts[0]}" if len(parts) == 3 else raw_d
-        content = str(p['content'])[:400].replace('\n', ' ')
+        content = str(p['content'])[:1000].replace('\n', ' ')
         formatted_posts += f"[#{i}] [{p['platform'].upper()}] @{p['author']} ({date_str}): {content}\n"
     
     label_parts = []
@@ -480,43 +480,49 @@ def _generate_llm_summary(keyword: str, posts: list[dict], mode: str = "summary"
     topic_label = " & ".join(label_parts).title() if label_parts else "Social Media Analysis"
     
     if mode == "report":
-        prompt = f"""You are an intelligence analyst. Write a structured report about "{topic_label}" based on the numbered social media posts below.
+        prompt = f"""You are a senior intelligence analyst. Write an elaborative, highly detailed, and comprehensive intelligence report about "{topic_label}" based on the numbered social media posts below.
 
-FORMATTING RULES (follow strictly):
-- Start with a title line (e.g. "{topic_label} — Situation Report")
-- Then OVERVIEW: one paragraph summary
-- Then 2-4 named sections in ALL CAPS (e.g. INTERNAL CONFLICT, REGIONAL DIPLOMACY, TREND ANALYSIS)
-- After each fact, cite the source like: (see [#1]) or (see [#2])
-- End with TREND ANALYSIS or INFERRED TRENDS section
-- Do NOT include any DATE: header line, CLASSIFICATION, DOCUMENT ID, TO/FROM/SUBJECT headers
-- Synthesize all posts provided below into a comprehensive situation report. Posts from specified handles represent trusted intelligence sources; summarize their content directly.
-- Ensure the report covers the findings from all provided sources.
+FORMATTING AND DEPTH RULES (follow strictly):
+- Start with a clear title line (e.g. "{topic_label} — Detailed Situation & Intelligence Report")
+- EXECUTIVE SUMMARY / OVERVIEW: Provide an in-depth strategic overview (2 to 3 detailed paragraphs) setting the broader geopolitical, security, or socio-economic context and synthesizing key dynamics across all sources.
+- THEMATIC SECTIONS (3 to 5 named sections in ALL CAPS, e.g. BILATERAL & REGIONAL DIPLOMACY, MILITARY & STRATEGIC DEVELOPMENTS, ECONOMIC & TRADE IMPACT, DOMESTIC POLICIES & PUBLIC SENTIMENT):
+  * Do NOT be brief. Provide comprehensive, multi-paragraph explanations under each section.
+  * For every major event or topic, thoroughly elaborate on what occurred, who the key figures or organizations are, specific claims or statements made, relevant data/figures, and the operational background.
+  * Explicitly analyze the cause-and-effect relationships and regional or global significance of these developments.
+  * Synthesize multiple sources together to show how events connect or contrast.
+- STRATEGIC IMPLICATIONS & RISK ASSESSMENT: Elaborate on the immediate and medium-term consequences for key stakeholders, national security, alliances, or market stability.
+- FORWARD OUTLOOK & INFERRED TRENDS: Conclude with an in-depth forward-looking trajectory detailing emerging indicators, potential escalation or stabilization paths, and what analysts should monitor next.
+- CITATIONS: After each factual assertion, statistic, or quote, strictly cite the originating source using its reference number like: (see [#1]) or (see [#2], [#5]).
+- Do NOT include any DATE: header line, CLASSIFICATION labels, DOCUMENT ID, or TO/FROM/SUBJECT email headers.
+- Exhaustively cover all relevant findings from the provided posts; do not leave out important details.
 
-Posts:
+Monitored Posts:
 {formatted_posts}
 """
     else:
-        prompt = f"""You are an intelligence analyst. Write a concise situation report about "{topic_label}" based on the numbered social media posts below.
+        prompt = f"""You are a senior intelligence analyst. Write an elaborative, highly detailed intelligence situation report about "{topic_label}" based on the numbered social media posts below.
 
-FORMATTING RULES (follow strictly):
-- Start with: SITUATION REPORT: {topic_label.upper()}\nOVERVIEW:
-- Then write a 2-3 paragraph factual summary
-- After each fact, cite the source like: (see [#1]) or (see [#2])
-- Do NOT include any DATE: header line, CLASSIFICATION, DOCUMENT ID, TO/FROM/SUBJECT headers
-- Synthesize all posts provided below into a comprehensive situation report. Posts from specified handles represent trusted intelligence sources; summarize their content directly.
+FORMATTING AND DEPTH RULES (follow strictly):
+- Start with: SITUATION REPORT: {topic_label.upper()}
+- OVERVIEW: Write a comprehensive, multi-paragraph strategic overview explaining the overarching landscape, core developments, and the broader context.
+- DETAILED EVENT & TOPIC BREAKDOWN: Provide thorough, multi-paragraph analytical breakdowns of the individual events, statements, security postures, or policy shifts observed across the sources. Elaborate on the specifics: names, locations, quotes, statistics, and historical or geopolitical context. Explain why each development matters and how they interrelate.
+- STRATEGIC IMPLICATIONS & TRENDS: Provide an elaborate assessment of key implications, emerging patterns, and near-term trajectories for the involved actors and regions.
+- CITATIONS: After each factual statement, cite the corresponding post reference number like: (see [#1]) or (see [#3], [#7]).
+- Do NOT write a short or superficial summary. Provide thorough, substantive, and elaborative analysis.
+- Do NOT include any DATE: header line, CLASSIFICATION labels, DOCUMENT ID, or TO/FROM/SUBJECT headers.
 
-Posts:
+Monitored Posts:
 {formatted_posts}
 """
     try:
         response = client.chat.completions.create(
             model=LLM_MODEL,
             messages=[
-                {"role": "system", "content": "You are a professional intelligence analyst. You write clean, factual reports with numbered inline source citations like (see [#1]). Posts from requested handles represent trusted sources; summarize their content directly. You never add DATE lines, classification labels, document IDs, or TO/FROM/SUBJECT headers."},
+                {"role": "system", "content": "You are a senior intelligence analyst producing comprehensive, highly detailed, and elaborative intelligence reports. You provide exhaustive contextual breakdowns, strategic impact assessments, and thorough narrative explanations with numbered inline citations like (see [#1]). You never provide brief or generic summaries, and you never include DATE headers, classification labels, document IDs, or TO/FROM/SUBJECT headers."},
                 {"role": "user", "content": prompt}
             ],
             temperature=0.3,
-            max_tokens=1200
+            max_tokens=3500
         )
         summary_text = response.choices[0].message.content.strip()
         summary_text = re.sub(r'(?m)^DATE:\s*[^\n]*\n?', '', summary_text)
