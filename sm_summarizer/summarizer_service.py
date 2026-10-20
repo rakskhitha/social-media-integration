@@ -489,44 +489,48 @@ def _generate_llm_summary(keyword: str, posts: list[dict], mode: str = "summary"
         )
         prompt = f"""You are a senior intelligence analyst. Write an elaborative, highly detailed, and comprehensive intelligence report about "{topic_label}" based on the numbered social media posts below.
 
-FORMATTING AND DEPTH RULES (follow strictly):
-- Start with a clear title line (e.g. "{topic_label} — Detailed Situation & Intelligence Report")
-- EXECUTIVE SUMMARY / OVERVIEW: Provide an in-depth strategic overview (2 to 3 detailed paragraphs) setting the broader geopolitical, security, or socio-economic context and synthesizing key dynamics across all sources.
-- THEMATIC SECTIONS (3 to 5 named sections in ALL CAPS, e.g. BILATERAL & REGIONAL DIPLOMACY, MILITARY & STRATEGIC DEVELOPMENTS, ECONOMIC & TRADE IMPACT, DOMESTIC POLICIES & PUBLIC SENTIMENT):
-  * Do NOT be brief. Provide comprehensive, multi-paragraph explanations under each section.
-  * For every major event or topic, thoroughly elaborate on what occurred, who the key figures or organizations are, specific claims or statements made, relevant data/figures, and the operational background.
-  * Explicitly analyze the cause-and-effect relationships and regional or global significance of these developments.
-  * Synthesize multiple sources together to show how events connect or contrast.
-- STRATEGIC IMPLICATIONS & RISK ASSESSMENT: Elaborate on the immediate and medium-term consequences for key stakeholders, national security, alliances, or market stability.
-- FORWARD OUTLOOK & INFERRED TRENDS: Conclude with an in-depth forward-looking trajectory detailing emerging indicators, potential escalation or stabilization paths, and what analysts should monitor next.
-- CITATIONS: After each factual assertion, statistic, or quote, strictly cite the originating source using its reference number like: (see [#1]) or (see [#2], [#5]).
+CRITICAL INSTRUCTIONS ON DEPTH & EXPLANATION (follow strictly):
+- Do NOT provide a brief, shallow, or generic response. Even if there are few posts, provide extensive, in-depth contextual analysis, operational background, and strategic evaluation.
+- Title line: "{topic_label} — Detailed Situation & Intelligence Report"
+- EXECUTIVE SUMMARY / STRATEGIC OVERVIEW:
+  * Provide an in-depth strategic overview (2 to 3 detailed paragraphs).
+  * Establish the broader geopolitical, security, or socio-economic context and synthesize key dynamics across all sources.
+- THEMATIC & EVENT ANALYSIS SECTIONS (3 to 5 named sections in ALL CAPS, e.g. MARITIME & MILITARY DEVELOPMENTS, REGIONAL DIPLOMACY & HISTORICAL DISPUTES, STRATEGIC POSTURING, ALLIANCE DYNAMICS):
+  * Under each section, write comprehensive, multi-paragraph narrative explanations.
+  * For every event, thoroughly elaborate on what occurred, who the key figures or organizations are, specific claims or statements made, relevant background history, and the operational significance.
+  * Explicitly analyze the cause-and-effect relationships, strategic motives of the involved actors, and regional or global implications.
+- STRATEGIC IMPLICATIONS & RISK ASSESSMENT:
+  * Provide an elaborate assessment of the immediate and medium-term consequences for regional stability, alliances, and defense postures.
+- FORWARD OUTLOOK & INFERRED TRENDS:
+  * Conclude with an in-depth forward-looking trajectory detailing emerging indicators, potential escalation or stabilization paths, and key factors analysts should monitor next.
+- CITATIONS: After each factual assertion or claim, strictly cite the originating source using its reference number like: (see [#1]) or (see [#2], [#5]).
 - Do NOT include any DATE: header line, CLASSIFICATION labels, DOCUMENT ID, or TO/FROM/SUBJECT email headers.
-- Exhaustively cover all relevant findings from the provided posts; do not leave out important details.
+- Exhaustively cover all relevant findings from the provided posts; synthesize all available details.
 
 Monitored Posts:
 {formatted_posts}
 """
         max_tok = 3500
     else:
-        # Crisp, short executive summary for daily digests and quick overviews
+        # Substantive executive summary for daily digests and quick overviews
         system_role = (
-            "You are a professional intelligence analyst. You write clean, concise, and factual situation summaries with numbered inline source citations like (see [#1]). "
-            "You focus strictly on the key facts in a crisp, direct manner. You never add DATE lines, classification labels, document IDs, or TO/FROM/SUBJECT headers."
+            "You are a professional intelligence analyst. You write clean, substantive, and informative situation summaries with numbered inline source citations like (see [#1]). "
+            "You provide meaningful operational context and strategic significance. You never add DATE lines, classification labels, document IDs, or TO/FROM/SUBJECT headers."
         )
-        prompt = f"""You are an intelligence analyst. Write a concise situation summary about "{topic_label}" based on the numbered social media posts below.
+        prompt = f"""You are an intelligence analyst. Write a substantive situation summary about "{topic_label}" based on the numbered social media posts below.
 
-FORMATTING RULES (follow strictly):
+FORMATTING & DEPTH RULES (follow strictly):
 - Start with: SITUATION REPORT: {topic_label.upper()}\nOVERVIEW:
-- Write a crisp, short 2-3 paragraph factual summary capturing the key events, statements, and actions.
-- Keep the summary concise, direct, and quick to read.
-- After each factual statement, cite the source like: (see [#1]) or (see [#2]).
+- Write a substantive, well-explained strategic overview (2 to 3 paragraphs).
+- Do NOT simply restate the posts in 1-2 brief sentences. For every event, statement, or action, provide the operational background, the key actors involved, and the broader geopolitical or security significance.
+- Conclude with a clear paragraph on the strategic implications and what this signals for the region.
+- After each factual statement or claim, cite the source like: (see [#1]) or (see [#2]).
 - Do NOT include any DATE: header line, CLASSIFICATION labels, DOCUMENT ID, or TO/FROM/SUBJECT headers.
-- Synthesize all posts provided below directly into a compact briefing.
 
 Monitored Posts:
 {formatted_posts}
 """
-        max_tok = 900
+        max_tok = 1500
 
     try:
         response = client.chat.completions.create(
