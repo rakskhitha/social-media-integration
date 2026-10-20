@@ -1,0 +1,234 @@
+{
+  "1": [
+    {
+      "date": "2026-10-10",
+      "keyword": "@war_monitor & China, India, Ukraine",
+      "sent_at": "2026-10-10T15:14:43.816037+00:00",
+      "count": 57,
+      "status": "sent",
+      "id": "588526d5b1b44d34aae1a568be547754",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-08",
+      "keyword": "@war_monitor & China, India, Ukraine",
+      "sent_at": "2026-10-08T14:23:07.123577+00:00",
+      "count": 0,
+      "status": "no_results",
+      "id": "6a3107745c97407bb23cbdac24e3851a",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor & China, India, Ukraine",
+      "sent_at": "2026-10-07T16:16:57.200291+00:00",
+      "count": 69,
+      "status": "sent",
+      "id": "37728bb28f744e9482e60035582b9bfd",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "Social Media Digest",
+      "sent_at": "2026-10-07T16:15:11.729836+00:00",
+      "count": 43,
+      "status": "sent",
+      "id": "6c16ae5369644fa2888bbcc709637b4b",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor, @ukraine_watch, @intelslava, @scmpnews & China, India, Ukraine",
+      "sent_at": "2026-10-07T16:14:38.791367+00:00",
+      "count": 91,
+      "status": "sent",
+      "id": "18b8294c61d64a9c9116280d958b2e2c",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor, @ukraine_watch, @intelslava, @scmpnews & China, India, Ukraine",
+      "sent_at": "2026-10-07T16:12:30.127340+00:00",
+      "count": 91,
+      "status": "sent",
+      "id": "4a69752335dc49aa8577610e96b8949c",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "Social Media Digest",
+      "sent_at": "2026-10-07T16:08:47.472484+00:00",
+      "count": 43,
+      "status": "failed",
+      "error": "Connection unexpectedly closed",
+      "id": "4dae58caa3cb4b13aa06d71e382fdefd",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor, @ukraine_watch, @intelslava, @scmpnews & China, India, Ukraine",
+      "sent_at": "2026-10-07T16:07:30.689326+00:00",
+      "count": 91,
+      "status": "failed",
+      "error": "Connection unexpectedly closed",
+      "id": "0e4056563c59424a8e9550a34ad3dd2b",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor, @ukraine_watch, @intelslava, @scmpnews & China, India, Ukraine",
+      "sent_at": "2026-10-07T16:06:12.634324+00:00",
+      "count": 91,
+      "status": "sent",
+      "id": "2f4c85d797d04e3f8dccac1b56a84340",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "Social Media Digest",
+      "sent_at": "2026-10-07T15:59:37.055649+00:00",
+      "count": 0,
+      "status": "no_results",
+      "id": "c761b18acf644bd1884a006358fa7cb5",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor, @ukraine_watch, @intelslava, @scmpnews & China, India, Ukraine",
+      "sent_at": "2026-10-07T15:59:02.872941+00:00",
+      "count": 0,
+      "status": "no_results",
+      "id": "706efa82026d46e4ae1482997c39773a",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor, @ukraine_watch, @intelslava, @scmpnews & China, India, Ukraine",
+      "sent_at": "2026-10-07T15:58:28.683196+00:00",
+      "count": 0,
+      "status": "no_results",
+      "id": "a0cfbec09c5d42aa8e99e50b59f9de65",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor, @ukraine_watch, @intelslava, @scmpnews & China, India, Ukraine",
+      "sent_at": "2026-10-07T15:40:03.039557+00:00",
+      "count": 91,
+      "status": "sent",
+      "id": "34c90c5e4ec249039f643a6e22962584",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor, @ukraine_watch, @intelslava, @scmpnews & China, India, Ukraine",
+      "sent_at": "2026-10-07T15:30:01.481029+00:00",
+      "count": 91,
+      "status": "sent",
+      "id": "179b482cb92346079b4f732d6aacb1b4",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor, @ukraine_watch, @intelslava, @scmpnews & China, India, Ukraine",
+      "sent_at": "2026-10-07T15:28:24.900149+00:00",
+      "count": 91,
+      "status": "sent",
+      "id": "d82454916f1443d785affe6dfd6d0dbd",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor, @ukraine_watch, @intelslava, @scmpnews & China, India, Ukraine",
+      "sent_at": "2026-10-07T15:10:41.286788+00:00",
+      "count": 91,
+      "status": "sent",
+      "id": "ae61fbd70ef7408f802f2b16854da3a4",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor, @ukraine_watch, @intelslava, @scmpnews & China, India, Ukraine",
+      "sent_at": "2026-10-07T15:10:18.379863+00:00",
+      "count": 91,
+      "status": "sent",
+      "id": "7207a9fca65d4e7aae924abe0a3da201",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor, @ukraine_watch, @intelslava, @scmpnews & China, India, Ukraine",
+      "sent_at": "2026-10-07T15:06:56.200365+00:00",
+      "count": 91,
+      "status": "sent",
+      "id": "37fef2a6d88445268d17b6b7d1176200",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@war_monitor, @ukraine_watch, @intelslava, @scmpnews & China, India, Ukraine",
+      "sent_at": "2026-10-07T15:06:01.241819+00:00",
+      "count": 91,
+      "status": "sent",
+      "id": "687b33e65e8441ac8af5675dce5fd6e2",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@anshu217, @mfa_china & nepal floods, chinese aircraft",
+      "sent_at": "2026-10-07T14:36:27.032588+00:00",
+      "count": 0,
+      "status": "no_results",
+      "id": "9d90fe6383414518b4ae37f11fda42dc",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@anshu217, @mfa_china & nepal floods, chinese aircraft",
+      "sent_at": "2026-10-07T14:36:17.259091+00:00",
+      "count": 0,
+      "status": "no_results",
+      "id": "ede462b4327a4e68b72ba13ea750ce8a",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "Social Media Digest",
+      "sent_at": "2026-10-07T13:10:56.515525+00:00",
+      "count": 41,
+      "status": "failed",
+      "error": "{}",
+      "id": "6bfbdf7602024bfdacec04ec2ed8be7b",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "Social Media Digest",
+      "sent_at": "2026-10-07T13:10:38.912661+00:00",
+      "count": 41,
+      "status": "failed",
+      "error": "{}",
+      "id": "6356b366767c422c8dbd131b20cc38e8",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "Social Media Digest",
+      "sent_at": "2026-10-07T13:08:08.308410+00:00",
+      "count": 41,
+      "status": "failed",
+      "error": "{}",
+      "id": "b1688e5e37464386b96a22a12b0615e6",
+      "user_id": 1
+    },
+    {
+      "date": "2026-10-07",
+      "keyword": "@anshu217, @MFA_China & nepal floods, rain",
+      "sent_at": "2026-10-07T11:39:53.184019+00:00",
+      "count": 0,
+      "status": "no_results",
+      "id": "7cfbc29ea27e49b39d4094a83d4b275f",
+      "user_id": 1
+    }
+  ]
+}

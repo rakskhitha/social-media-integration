@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  summary-sm-backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: summary-sm-backend
+    restart: always
+    ports:
+      - "8085:8000"
+    environment:
+      - PORT=8000
+    volumes:
+      - ./sm_summarizer/data:/app/sm_summarizer/data

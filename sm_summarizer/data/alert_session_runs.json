@@ -1,0 +1,272 @@
+[
+  {
+    "id": "19932121742f4785bc46469630d5111e",
+    "session_id": 4,
+    "window_start": "2026-10-08T00:30:00+00:00",
+    "window_end": "2026-10-08T06:30:00+00:00",
+    "run_at": "2026-10-08T08:17:46.834079+00:00",
+    "status": "sent",
+    "post_count": 10,
+    "summary": "SITUATION REPORT: @WAR_MONITOR & CHINA, INDIA\n\nOVERVIEW:\n\nIn the conflict in Ukraine, the @war_monitor Telegram channel reports that funds collected for Mavic 3T drones and reinforced batteries for a special forces unit have been successfully delivered (see [#1]). Regarding the Kyiv region, the channel reports ongoing reconnaissance activity (see [#2]) and identifies specific rocket strikes or incidents in the Obukhiv sector (see [#3]), Chaban (see [#4]), and near Osokorky/Pyrogiv (see [#5]).\n\nIn China-related developments, a former Anthropic researcher has warned that Chinese intelligence assets are already present within United States AI laboratories (see [#7]). In the realm of trade and diplomacy, reports indicate that Donald Trump has urged Xi Jinping to engage in discussions with Takaichi and to lift export curbs on Japan (see [#8]). Additionally, the United States has issued its first fine regarding outbound investment related to a Chinese robotics AI deal (see [#9]).\n\nIn India, law enforcement engaged in a high-speed pursuit of three smugglers transporting banned tobacco products, resulting in the suspects being apprehended (see [#6]). In sports news, the captain of the Indian women's cricket team, who led the nation to a 2025 World Cup victory, has stepped down from her role across all three formats of the game (see [#10]).",
+    "error": null,
+    "config_snapshot": {
+      "mode": "summary",
+      "name": "Regional Crisis Watch",
+      "handles": [
+        "@war_monitor"
+      ],
+      "keyword": "China, India",
+      "channels": [
+        "telegram",
+        "twitter"
+      ],
+      "timezone": "Asia/Kolkata",
+      "to_emails": [
+        "rakshithakn12@gmail.com"
+      ],
+      "custom_times": [],
+      "schedule_mode": "preset",
+      "interval_hours": 6
+    }
+  },
+  {
+    "id": "bd22df51836648f8ac480e318903bce1",
+    "session_id": 1,
+    "window_start": "2026-10-08T06:30:00+00:00",
+    "window_end": "2026-10-08T12:30:00+00:00",
+    "run_at": "2026-10-08T12:30:11.437466+00:00",
+    "status": "no_results",
+    "post_count": 0,
+    "summary": "No matching social media posts were published in this time window.",
+    "error": null,
+    "config_snapshot": {
+      "mode": "summary",
+      "name": "Regional Crisis Watch",
+      "handles": [
+        "@war_monitor"
+      ],
+      "keyword": "China, India",
+      "channels": [
+        "telegram",
+        "twitter"
+      ],
+      "timezone": "Asia/Kolkata",
+      "to_emails": [
+        "rakshithakn12@gmail.com"
+      ],
+      "custom_times": [],
+      "schedule_mode": "preset",
+      "interval_hours": 6
+    }
+  },
+  {
+    "id": "7853dc696f744fbd8e29268c24d76549",
+    "session_id": 2,
+    "window_start": "2026-10-08T06:30:00+00:00",
+    "window_end": "2026-10-08T12:30:00+00:00",
+    "run_at": "2026-10-08T12:30:13.700372+00:00",
+    "status": "no_results",
+    "post_count": 0,
+    "summary": "No matching social media posts were published in this time window.",
+    "error": null,
+    "config_snapshot": {
+      "mode": "summary",
+      "name": "Regional Crisis Watch",
+      "handles": [
+        "@war_monitor"
+      ],
+      "keyword": "China, India",
+      "channels": [
+        "telegram",
+        "twitter"
+      ],
+      "timezone": "Asia/Kolkata",
+      "to_emails": [
+        "rakshithakn12@gmail.com"
+      ],
+      "custom_times": [],
+      "schedule_mode": "preset",
+      "interval_hours": 6
+    }
+  },
+  {
+    "id": "493cfe24bc0b44238676282c0538cfe7",
+    "session_id": 3,
+    "window_start": "2026-10-08T06:30:00+00:00",
+    "window_end": "2026-10-08T12:30:00+00:00",
+    "run_at": "2026-10-08T12:30:15.941446+00:00",
+    "status": "no_results",
+    "post_count": 0,
+    "summary": "No matching social media posts were published in this time window.",
+    "error": null,
+    "config_snapshot": {
+      "mode": "summary",
+      "name": "Regional Crisis Watch",
+      "handles": [
+        "@war_monitor"
+      ],
+      "keyword": "China, India",
+      "channels": [
+        "telegram",
+        "twitter"
+      ],
+      "timezone": "Asia/Kolkata",
+      "to_emails": [
+        "rakshithakn12@gmail.com"
+      ],
+      "custom_times": [],
+      "schedule_mode": "preset",
+      "interval_hours": 6
+    }
+  },
+  {
+    "id": "7deb1e62e64a4a73ad0244d9863c2678",
+    "session_id": 4,
+    "window_start": "2026-10-08T06:30:00+00:00",
+    "window_end": "2026-10-08T12:30:00+00:00",
+    "run_at": "2026-10-08T12:30:17.885889+00:00",
+    "status": "no_results",
+    "post_count": 0,
+    "summary": "No matching social media posts were published in this time window.",
+    "error": null,
+    "config_snapshot": {
+      "mode": "summary",
+      "name": "Regional Crisis Watch",
+      "handles": [
+        "@war_monitor"
+      ],
+      "keyword": "China, India",
+      "channels": [
+        "telegram",
+        "twitter"
+      ],
+      "timezone": "Asia/Kolkata",
+      "to_emails": [
+        "rakshithakn12@gmail.com"
+      ],
+      "custom_times": [],
+      "schedule_mode": "preset",
+      "interval_hours": 6
+    }
+  },
+  {
+    "id": "30be8947fd9244719058868e59e7077b",
+    "session_id": 4,
+    "window_start": "2026-10-08T12:30:00+00:00",
+    "window_end": "2026-10-08T18:30:00+00:00",
+    "run_at": "2026-10-09T04:18:25.086545+00:00",
+    "status": "no_results",
+    "post_count": 0,
+    "summary": "No matching social media posts were published in this time window.",
+    "error": null,
+    "config_snapshot": {
+      "mode": "summary",
+      "name": "Regional Crisis Watch",
+      "handles": [
+        "@war_monitor"
+      ],
+      "keyword": "China, India",
+      "channels": [
+        "telegram",
+        "twitter"
+      ],
+      "timezone": "Asia/Kolkata",
+      "to_emails": [
+        "rakshithakn12@gmail.com"
+      ],
+      "custom_times": [],
+      "schedule_mode": "preset",
+      "interval_hours": 6
+    }
+  },
+  {
+    "id": "f989ad5275e54385ba5ec6bd38f04a5b",
+    "session_id": 4,
+    "window_start": "2026-10-08T18:30:00+00:00",
+    "window_end": "2026-10-09T00:30:00+00:00",
+    "run_at": "2026-10-09T04:18:26.922277+00:00",
+    "status": "no_results",
+    "post_count": 0,
+    "summary": "No matching social media posts were published in this time window.",
+    "error": null,
+    "config_snapshot": {
+      "mode": "summary",
+      "name": "Regional Crisis Watch",
+      "handles": [
+        "@war_monitor"
+      ],
+      "keyword": "China, India",
+      "channels": [
+        "telegram",
+        "twitter"
+      ],
+      "timezone": "Asia/Kolkata",
+      "to_emails": [
+        "rakshithakn12@gmail.com"
+      ],
+      "custom_times": [],
+      "schedule_mode": "preset",
+      "interval_hours": 6
+    }
+  },
+  {
+    "id": "2135900d4e244694ba1b48b5ff173495",
+    "session_id": 4,
+    "window_start": "2026-10-09T00:30:00+00:00",
+    "window_end": "2026-10-09T06:30:00+00:00",
+    "run_at": "2026-10-09T06:30:28.003332+00:00",
+    "status": "sent",
+    "post_count": 18,
+    "summary": "SITUATION REPORT: @WAR_MONITOR & CHINA, INDIA\n\nOVERVIEW:\n\nMilitary activity in Ukraine remains concentrated in the Kyiv region, with multiple reports of rocket strikes and tactical movements. In Zhytomyr, one rocket was reported (see [#1]). Within the Kyiv region, significant activity was noted in the Obukhiv/Trypillya area (see [#2]), the Vasylkiv sector (see [#3], see [#16]), and near the Kyiv Reservoir (see [#16]). Additional reports indicate rocket activity or strikes in the Chornobyl zone, Dimer, Borodyanka, Makariv, Vyshhorod, Hostomel, Bucha, Irpin, Svyatopetrivske, Chaban, and Ivankiv (see [#5], see [#7], see [#8], see [#9], see [#10], see [#11], see [#18]). Furthermore, a rocket was reported traveling from Cherkasy toward the Bila Tserkva district (see [#15]), and another rocket was noted moving from Bila Tserkva toward the Vasylkiv sector (see [#17]).\n\nIn broader geopolitical and technological developments, China is reportedly analyzing drone tactics utilized in the Ukraine conflict to refine its own military capabilities (see [#12]). In the energy sector, a Chinese technological breakthrough is projected to increase the gross profit margin of sustainable jet fuel to over 50% (see [#14]). Regarding international relations, Flavio Bolsonaro has indicated that, should he serve as President of Brazil, he would seek to maintain working relationships with both China and the United States (see [#13]).",
+    "error": null,
+    "config_snapshot": {
+      "mode": "summary",
+      "name": "Regional Crisis Watch",
+      "handles": [
+        "@war_monitor"
+      ],
+      "keyword": "China, India",
+      "channels": [
+        "telegram",
+        "twitter"
+      ],
+      "timezone": "Asia/Kolkata",
+      "to_emails": [
+        "rakshithakn12@gmail.com"
+      ],
+      "custom_times": [],
+      "schedule_mode": "preset",
+      "interval_hours": 6
+    }
+  },
+  {
+    "id": "5e7c56eeb81a46d692c3041257df9376",
+    "session_id": 4,
+    "window_start": "2026-10-09T06:30:00+00:00",
+    "window_end": "2026-10-09T12:30:00+00:00",
+    "run_at": "2026-10-09T12:39:34.779795+00:00",
+    "status": "no_results",
+    "post_count": 0,
+    "summary": "No matching social media posts were published in this time window.",
+    "error": null,
+    "config_snapshot": {
+      "mode": "summary",
+      "name": "Regional Crisis Watch",
+      "handles": [
+        "@war_monitor"
+      ],
+      "keyword": "China, India",
+      "channels": [
+        "telegram",
+        "twitter"
+      ],
+      "timezone": "Asia/Kolkata",
+      "to_emails": [
+        "rakshithakn12@gmail.com"
+      ],
+      "custom_times": [],
+      "schedule_mode": "preset",
+      "interval_hours": 6
+    }
+  }
+]

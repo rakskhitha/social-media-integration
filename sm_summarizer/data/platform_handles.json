@@ -1,0 +1,3852 @@
+[
+  {
+    "platform": "baidu",
+    "handle": "侦察卫星",
+    "display_name": "侦察卫星",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "兵器",
+    "display_name": "兵器",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "军事",
+    "display_name": "军事",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "军事物流",
+    "display_name": "军事物流",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "军事科技",
+    "display_name": "军事科技",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "军人装备",
+    "display_name": "军人装备",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "军备竞赛",
+    "display_name": "军备竞赛",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "军工企业",
+    "display_name": "军工企业",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "军情观察",
+    "display_name": "军情观察",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "军民融合",
+    "display_name": "军民融合",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "军演",
+    "display_name": "军演",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "军衔制",
+    "display_name": "军衔制",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "军费预算",
+    "display_name": "军费预算",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "反导系统",
+    "display_name": "反导系统",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "后勤保障",
+    "display_name": "后勤保障",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "哨所防务",
+    "display_name": "哨所防务",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "国防",
+    "display_name": "国防",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "地缘政治",
+    "display_name": "地缘政治",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "导弹",
+    "display_name": "导弹",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "巡航导弹",
+    "display_name": "巡航导弹",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "弹道导弹",
+    "display_name": "弹道导弹",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "情报",
+    "display_name": "情报",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "战区司令部",
+    "display_name": "战区司令部",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "战术",
+    "display_name": "战术",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "战术轰炸机",
+    "display_name": "战术轰炸机",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "战略",
+    "display_name": "战略",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "战略威慑",
+    "display_name": "战略威慑",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "战略轰炸机",
+    "display_name": "战略轰炸机",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "无人机",
+    "display_name": "无人机",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "核潜艇",
+    "display_name": "核潜艇",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "武器装备",
+    "display_name": "武器装备",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "武装力量",
+    "display_name": "武装力量",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "海军",
+    "display_name": "海军",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "海警部队",
+    "display_name": "海警部队",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "火炮系统",
+    "display_name": "火炮系统",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "特种部队",
+    "display_name": "特种部队",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "现代战争",
+    "display_name": "现代战争",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "电子战",
+    "display_name": "电子战",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "空军",
+    "display_name": "空军",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "空间战",
+    "display_name": "空间战",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "网络安全",
+    "display_name": "网络安全",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "联合作战",
+    "display_name": "联合作战",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "航母",
+    "display_name": "航母",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "舰载机",
+    "display_name": "舰载机",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "装甲车",
+    "display_name": "装甲车",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "边界防务",
+    "display_name": "边界防务",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "防空导弹",
+    "display_name": "防空导弹",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "陆军",
+    "display_name": "陆军",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "隐形战机",
+    "display_name": "隐形战机",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "baidu",
+    "handle": "雷达",
+    "display_name": "雷达",
+    "category": "Baidu",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "ADGPI - Indian Army",
+    "display_name": "ADGPI - Indian Army",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "China Military Bugle",
+    "display_name": "China Military Bugle",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "Denzil Naidoo",
+    "display_name": "Denzil Naidoo",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "DNA India",
+    "display_name": "DNA India",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "India Today",
+    "display_name": "India Today",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "Indian Navy",
+    "display_name": "Indian Navy",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "Online News ",
+    "display_name": "Online News ",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "Sri Lanka Navy",
+    "display_name": "Sri Lanka Navy",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "The Economic Times",
+    "display_name": "The Economic Times",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "The National Defense",
+    "display_name": "The National Defense",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "The Times of India",
+    "display_name": "The Times of India",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "TIMES NOW",
+    "display_name": "TIMES NOW",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "Trekking In Nepal",
+    "display_name": "Trekking In Nepal",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "Yash Raut",
+    "display_name": "Yash Raut",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "facebook",
+    "handle": "Zee News English",
+    "display_name": "Zee News English",
+    "category": "Facebook",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@all_source_news",
+    "display_name": "all_source_news",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@bakerinstitute",
+    "display_name": "bakerinstitute",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@bipss.org.bd",
+    "display_name": "bipss.org.bd",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@bji.official",
+    "display_name": "bji.official",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@bnpbd",
+    "display_name": "bnpbd",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@cenjowsindia",
+    "display_name": "cenjowsindia",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@chathamhouse_org",
+    "display_name": "chathamhouse_org",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@cpd_bangladesh",
+    "display_name": "cpd_bangladesh",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@defencedirecteducation",
+    "display_name": "defencedirecteducation",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@defense_talks",
+    "display_name": "defense_talks",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@economictimes",
+    "display_name": "economictimes",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@impriindia",
+    "display_name": "impriindia",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@indiadotcom",
+    "display_name": "indiadotcom",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@indopacificreport",
+    "display_name": "indopacificreport",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@mfa_china",
+    "display_name": "mfa_china",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@mima_malaysia",
+    "display_name": "mima_malaysia",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@modefencemv",
+    "display_name": "modefencemv",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@modjapan_en",
+    "display_name": "modjapan_en",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@navalinstitute",
+    "display_name": "navalinstitute",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@unodc_hq",
+    "display_name": "unodc_hq",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@pakinsrilanka",
+    "display_name": "pakinsrilanka",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@pakistan_navy",
+    "display_name": "pakistan_navy",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@randcorporation",
+    "display_name": "randcorporation",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@robbanassafina",
+    "display_name": "robbanassafina",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@usanasfoundation",
+    "display_name": "usanasfoundation",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@scramble_nl",
+    "display_name": "scramble_nl",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@srilankanavy",
+    "display_name": "srilankanavy",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@technical_astra_88",
+    "display_name": "technical_astra_88",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@wiomsa",
+    "display_name": "wiomsa",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "instagram",
+    "handle": "@zaobaosg",
+    "display_name": "zaobaosg",
+    "category": "Instagram",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "U.S. Naval Institute",
+    "display_name": "U.S. Naval Institute",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "Armando Johan Obdola",
+    "display_name": "Armando Johan Obdola",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "Australian Strategic Policy Institute",
+    "display_name": "Australian Strategic Policy Institute",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "Capt.(Dr.) S G Naravane",
+    "display_name": "Capt.(Dr.) S G Naravane",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "Center for Strategic and International Studies (CSIS)",
+    "display_name": "Center for Strategic and International Studies (CSIS)",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "Centre for Joint Warfare Studies (CENJOWS)",
+    "display_name": "Centre for Joint Warfare Studies (CENJOWS)",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "Centre For Land Warfare Studies (CLAWS)",
+    "display_name": "Centre For Land Warfare Studies (CLAWS)",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "China Beige Book (CBB)",
+    "display_name": "China Beige Book (CBB)",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "Confidential Careers",
+    "display_name": "Confidential Careers",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "East Asia Forum",
+    "display_name": "East Asia Forum",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "IGAD",
+    "display_name": "IGAD",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "Indo-Pacific Insight",
+    "display_name": "Indo-Pacific Insight",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "International Institute for Strategic Studies",
+    "display_name": "International Institute for Strategic Studies",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "Maritime Institute of Malaysia",
+    "display_name": "Maritime Institute of Malaysia",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "MP-IDSA",
+    "display_name": "MP-IDSA",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "Observer Research Foundation",
+    "display_name": "Observer Research Foundation",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "Opportunities for Youth",
+    "display_name": "Opportunities for Youth",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "Pakistan Armed Forces",
+    "display_name": "Pakistan Armed Forces",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "RAND",
+    "display_name": "RAND",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "RMS International",
+    "display_name": "RMS International",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "SIPRI",
+    "display_name": "SIPRI",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "Sri Lanka Navy",
+    "display_name": "Sri Lanka Navy",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "The Cyber Security Hub",
+    "display_name": "The Cyber Security Hub",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "VIF India",
+    "display_name": "VIF India",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "linkedin",
+    "handle": "WIOMSA - Western Indian Ocean Marine Science Association",
+    "display_name": "WIOMSA - Western Indian Ocean Marine Science Association",
+    "category": "Linkedin",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#airforce",
+    "display_name": "#airforce",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#army",
+    "display_name": "#army",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#artillery",
+    "display_name": "#artillery",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#aviation",
+    "display_name": "#aviation",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#ballistics",
+    "display_name": "#ballistics",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#bordersecurity",
+    "display_name": "#bordersecurity",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#bundeswehr",
+    "display_name": "#bundeswehr",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#centcom",
+    "display_name": "#centcom",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#conflict",
+    "display_name": "#conflict",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#counterterrorism",
+    "display_name": "#counterterrorism",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#cyberdefense",
+    "display_name": "#cyberdefense",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#cybersecurity",
+    "display_name": "#cybersecurity",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#defense",
+    "display_name": "#defense",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#drones",
+    "display_name": "#drones",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#electronicwarfare",
+    "display_name": "#electronicwarfare",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#eucom",
+    "display_name": "#eucom",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#foreignpolicy",
+    "display_name": "#foreignpolicy",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#geoint",
+    "display_name": "#geoint",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#geopolitics",
+    "display_name": "#geopolitics",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#humint",
+    "display_name": "#humint",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#hypersonic",
+    "display_name": "#hypersonic",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#indopacom",
+    "display_name": "#indopacom",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#infantry",
+    "display_name": "#infantry",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#intelligence",
+    "display_name": "#intelligence",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#isaf",
+    "display_name": "#isaf",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#logistics",
+    "display_name": "#logistics",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#marines",
+    "display_name": "#marines",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#maritime",
+    "display_name": "#maritime",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#military",
+    "display_name": "#military",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#missiles",
+    "display_name": "#missiles",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#nato",
+    "display_name": "#nato",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#navy",
+    "display_name": "#navy",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#osint",
+    "display_name": "#osint",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#pentagon",
+    "display_name": "#pentagon",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#pla",
+    "display_name": "#pla",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#radar",
+    "display_name": "#radar",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#reconnaissance",
+    "display_name": "#reconnaissance",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#sanctions",
+    "display_name": "#sanctions",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#satellites",
+    "display_name": "#satellites",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#sigint",
+    "display_name": "#sigint",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#socom",
+    "display_name": "#socom",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#spaceforce",
+    "display_name": "#spaceforce",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#spaceops",
+    "display_name": "#spaceops",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#stealth",
+    "display_name": "#stealth",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#stratcom",
+    "display_name": "#stratcom",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#submarines",
+    "display_name": "#submarines",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#tactical",
+    "display_name": "#tactical",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#unpost",
+    "display_name": "#unpost",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#war",
+    "display_name": "#war",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "mastodon",
+    "handle": "#wargaming",
+    "display_name": "#wargaming",
+    "category": "Mastodon",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "air_defense",
+    "display_name": "air_defense",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "aircraft_carriers",
+    "display_name": "aircraft_carriers",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "amphibious_assault",
+    "display_name": "amphibious_assault",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "armored_vehicles",
+    "display_name": "armored_vehicles",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "artillery_systems",
+    "display_name": "artillery_systems",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "ballistic_missiles",
+    "display_name": "ballistic_missiles",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "border_defenses",
+    "display_name": "border_defenses",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "camouflage",
+    "display_name": "camouflage",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "coast_guard",
+    "display_name": "coast_guard",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "combat_gear",
+    "display_name": "combat_gear",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "combat_medical",
+    "display_name": "combat_medical",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "combat_uniforms",
+    "display_name": "combat_uniforms",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "command_bunkers",
+    "display_name": "command_bunkers",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "cyber_warfare",
+    "display_name": "cyber_warfare",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "defense_strategy",
+    "display_name": "defense_strategy",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "defense_technology",
+    "display_name": "defense_technology",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "drone_technology",
+    "display_name": "drone_technology",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "electronic_warfare",
+    "display_name": "electronic_warfare",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "fighter_jets",
+    "display_name": "fighter_jets",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "firearms_design",
+    "display_name": "firearms_design",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "fortifications",
+    "display_name": "fortifications",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "infantry_weapons",
+    "display_name": "infantry_weapons",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "intelligence_analysis",
+    "display_name": "intelligence_analysis",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "logistical_support",
+    "display_name": "logistical_support",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "military_aviation",
+    "display_name": "military_aviation",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "military_drones",
+    "display_name": "military_drones",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "military_history",
+    "display_name": "military_history",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "military_logistics",
+    "display_name": "military_logistics",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "military_tactics",
+    "display_name": "military_tactics",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "missile_defense",
+    "display_name": "missile_defense",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "naval_tactics",
+    "display_name": "naval_tactics",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "naval_warships",
+    "display_name": "naval_warships",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "nuclear_submarines",
+    "display_name": "nuclear_submarines",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "osint_maps",
+    "display_name": "osint_maps",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "radar_systems",
+    "display_name": "radar_systems",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "reconnaissance_aircraft",
+    "display_name": "reconnaissance_aircraft",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "satellite_imagery",
+    "display_name": "satellite_imagery",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "siege_tactics",
+    "display_name": "siege_tactics",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "signal_intelligence",
+    "display_name": "signal_intelligence",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "space_defense",
+    "display_name": "space_defense",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "special_forces",
+    "display_name": "special_forces",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "stealth_aircraft",
+    "display_name": "stealth_aircraft",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "strategic_assets",
+    "display_name": "strategic_assets",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "submarine_tech",
+    "display_name": "submarine_tech",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "tactical_communications",
+    "display_name": "tactical_communications",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "tactical_gear",
+    "display_name": "tactical_gear",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "tank_designs",
+    "display_name": "tank_designs",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "trench_warfare",
+    "display_name": "trench_warfare",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "warfare_history",
+    "display_name": "warfare_history",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "pinterest",
+    "handle": "warship_models",
+    "display_name": "warship_models",
+    "category": "Pinterest",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/7700bot",
+    "display_name": "7700bot",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/adulting4kids",
+    "display_name": "adulting4kids",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/armyreco",
+    "display_name": "armyreco",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/ATF1511",
+    "display_name": "ATF1511",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/CarmenMjkg",
+    "display_name": "CarmenMjkg",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/CupEcstatic2721",
+    "display_name": "CupEcstatic2721",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/dinkomaricic",
+    "display_name": "dinkomaricic",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/falconupkid",
+    "display_name": "falconupkid",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/georgebounacos",
+    "display_name": "georgebounacos",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/GroundbreakingBoss14",
+    "display_name": "GroundbreakingBoss14",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/IndiaTodayGlobal",
+    "display_name": "IndiaTodayGlobal",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/jobhuntify",
+    "display_name": "jobhuntify",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/John3262005",
+    "display_name": "John3262005",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/Key-Needleworker-702",
+    "display_name": "Key-Needleworker-702",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/Mamuthone125",
+    "display_name": "Mamuthone125",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/MarketFlux",
+    "display_name": "MarketFlux",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/Miao_Yin8964",
+    "display_name": "Miao_Yin8964",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/Reddenbawker",
+    "display_name": "Reddenbawker",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/Rude-Result7362",
+    "display_name": "Rude-Result7362",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "reddit",
+    "handle": "u/Slow-Property5895",
+    "display_name": "Slow-Property5895",
+    "category": "Reddit",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "air_defense",
+    "display_name": "air_defense",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "airforce_daily",
+    "display_name": "airforce_daily",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "arms_control",
+    "display_name": "arms_control",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "army_updates",
+    "display_name": "army_updates",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "aviation_report",
+    "display_name": "aviation_report",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "battle_log",
+    "display_name": "battle_log",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "border_watch",
+    "display_name": "border_watch",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "breaking_war",
+    "display_name": "breaking_war",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "combat_reports",
+    "display_name": "combat_reports",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "command_center",
+    "display_name": "command_center",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "counter_intel",
+    "display_name": "counter_intel",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "crisis_watch",
+    "display_name": "crisis_watch",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "cyber_defense",
+    "display_name": "cyber_defense",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "defense_news",
+    "display_name": "defense_news",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "defense_tech",
+    "display_name": "defense_tech",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "drone_watch",
+    "display_name": "drone_watch",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "emergency_alert",
+    "display_name": "emergency_alert",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "force_posture",
+    "display_name": "force_posture",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "foreign_affairs",
+    "display_name": "foreign_affairs",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "frontline_news",
+    "display_name": "frontline_news",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "geoint_digest",
+    "display_name": "geoint_digest",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "geopolitics",
+    "display_name": "geopolitics",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "global_conflict",
+    "display_name": "global_conflict",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "global_security",
+    "display_name": "global_security",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "homeland_security",
+    "display_name": "homeland_security",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "intel_report",
+    "display_name": "intel_report",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "intelligence_brief",
+    "display_name": "intelligence_brief",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "maritime_sec",
+    "display_name": "maritime_sec",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "military_brief",
+    "display_name": "military_brief",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "missile_tracker",
+    "display_name": "missile_tracker",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "NATO_updates",
+    "display_name": "NATO_updates",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "naval_news",
+    "display_name": "naval_news",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "navy_brief",
+    "display_name": "navy_brief",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "nuclear_watch",
+    "display_name": "nuclear_watch",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "osint_updates",
+    "display_name": "osint_updates",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "PLA_monitor",
+    "display_name": "PLA_monitor",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "radar_intel",
+    "display_name": "radar_intel",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "reconnaissance",
+    "display_name": "reconnaissance",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "security_bulletin",
+    "display_name": "security_bulletin",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "space_force",
+    "display_name": "space_force",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "specops_news",
+    "display_name": "specops_news",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "stealth_tech",
+    "display_name": "stealth_tech",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "strategic_defense",
+    "display_name": "strategic_defense",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "strategic_news",
+    "display_name": "strategic_news",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "tactical_intel",
+    "display_name": "tactical_intel",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "troop_movements",
+    "display_name": "troop_movements",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "war_analysis",
+    "display_name": "war_analysis",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "war_dispatch",
+    "display_name": "war_dispatch",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "warfare_journal",
+    "display_name": "warfare_journal",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "snapchat",
+    "handle": "weapon_systems",
+    "display_name": "weapon_systems",
+    "category": "Snapchat",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "aaaaaaa",
+    "display_name": "aaaaaaa",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "aajtakofficial",
+    "display_name": "aajtakofficial",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "BBC_Chinese_news",
+    "display_name": "BBC_Chinese_news",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "BengalSultanate",
+    "display_name": "BengalSultanate",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "@bjiofficial",
+    "display_name": "@bjiofficial",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "@breaking911",
+    "display_name": "@breaking911",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "@cgtn_europe",
+    "display_name": "@cgtn_europe",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "@CockroachJanataParty2K26",
+    "display_name": "@CockroachJanataParty2K26",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "Conflict_Watch_Bangla",
+    "display_name": "Conflict_Watch_Bangla",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "cybdetective",
+    "display_name": "cybdetective",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "disclosetv",
+    "display_name": "disclosetv",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "insiderpaper",
+    "display_name": "insiderpaper",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "intelslava",
+    "display_name": "intelslava",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "justiceforcbse",
+    "display_name": "justiceforcbse",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "@ukraine_watch",
+    "display_name": "@ukraine_watch",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "liveuamap",
+    "display_name": "liveuamap",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "@Middle_East_Spectator",
+    "display_name": "@Middle_East_Spectator",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "@MilitarySummary",
+    "display_name": "@MilitarySummary",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "@myanmarnownews",
+    "display_name": "@myanmarnownews",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "@news18dotcom",
+    "display_name": "@news18dotcom",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "OSINTdefender",
+    "display_name": "OSINTdefender",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "ransomwarelive",
+    "display_name": "ransomwarelive",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "@rtnews",
+    "display_name": "@rtnews",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "rybar",
+    "display_name": "rybar",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "scmpnews",
+    "display_name": "scmpnews",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "@TheInsider",
+    "display_name": "@TheInsider",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "@voachinese",
+    "display_name": "@voachinese",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "vxunderground",
+    "display_name": "vxunderground",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "@war_monitor",
+    "display_name": "@war_monitor",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "telegram",
+    "handle": "xhnews",
+    "display_name": "xhnews",
+    "category": "Telegram",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#airdefense",
+    "display_name": "#airdefense",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#airforce",
+    "display_name": "#airforce",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#armoredvehicle",
+    "display_name": "#armoredvehicle",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#army",
+    "display_name": "#army",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#artillery",
+    "display_name": "#artillery",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#breakingnews",
+    "display_name": "#breakingnews",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#bundeswehr",
+    "display_name": "#bundeswehr",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#combat",
+    "display_name": "#combat",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#commandos",
+    "display_name": "#commandos",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#counterterrorism",
+    "display_name": "#counterterrorism",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#cyber",
+    "display_name": "#cyber",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#defense",
+    "display_name": "#defense",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#defenseindustry",
+    "display_name": "#defenseindustry",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#drones",
+    "display_name": "#drones",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#fighterjet",
+    "display_name": "#fighterjet",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#frontline",
+    "display_name": "#frontline",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#geopolitics",
+    "display_name": "#geopolitics",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#geopolitique",
+    "display_name": "#geopolitique",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#history",
+    "display_name": "#history",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#indianarmy",
+    "display_name": "#indianarmy",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#infantry",
+    "display_name": "#infantry",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#intel",
+    "display_name": "#intel",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#marines",
+    "display_name": "#marines",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#military",
+    "display_name": "#military",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#missile",
+    "display_name": "#missile",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#nationalsecurity",
+    "display_name": "#nationalsecurity",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#nato",
+    "display_name": "#nato",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#navy",
+    "display_name": "#navy",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#osint",
+    "display_name": "#osint",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#pentagon",
+    "display_name": "#pentagon",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#pla",
+    "display_name": "#pla",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#radar",
+    "display_name": "#radar",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#royalnavy",
+    "display_name": "#royalnavy",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#security",
+    "display_name": "#security",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#securityforces",
+    "display_name": "#securityforces",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#spaceforce",
+    "display_name": "#spaceforce",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#specialforces",
+    "display_name": "#specialforces",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#stealth",
+    "display_name": "#stealth",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#strategy",
+    "display_name": "#strategy",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#submarines",
+    "display_name": "#submarines",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#tactical",
+    "display_name": "#tactical",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#tank",
+    "display_name": "#tank",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#usairforce",
+    "display_name": "#usairforce",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#usarmy",
+    "display_name": "#usarmy",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#usnavy",
+    "display_name": "#usnavy",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#veterans",
+    "display_name": "#veterans",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#warfare",
+    "display_name": "#warfare",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#wargames",
+    "display_name": "#wargames",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#warship",
+    "display_name": "#warship",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "tiktok",
+    "handle": "#weapons",
+    "display_name": "#weapons",
+    "category": "TikTok",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#aircraftcarrier",
+    "display_name": "#aircraftcarrier",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#airdefense",
+    "display_name": "#airdefense",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#airforce",
+    "display_name": "#airforce",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#armedforces",
+    "display_name": "#armedforces",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#armsdeal",
+    "display_name": "#armsdeal",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#army",
+    "display_name": "#army",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#ballisticmissile",
+    "display_name": "#ballisticmissile",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#bordersecurity",
+    "display_name": "#bordersecurity",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#centcom",
+    "display_name": "#centcom",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#china",
+    "display_name": "#china",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#counterterrorism",
+    "display_name": "#counterterrorism",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#cybersecurity",
+    "display_name": "#cybersecurity",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#defense",
+    "display_name": "#defense",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#defensespending",
+    "display_name": "#defensespending",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#drones",
+    "display_name": "#drones",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#foreignpolicy",
+    "display_name": "#foreignpolicy",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#foreignrelations",
+    "display_name": "#foreignrelations",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#geopolitics",
+    "display_name": "#geopolitics",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#globalsecurity",
+    "display_name": "#globalsecurity",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#homelandsecurity",
+    "display_name": "#homelandsecurity",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#indo_pacific",
+    "display_name": "#indo_pacific",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#indopacom",
+    "display_name": "#indopacom",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#intelligence",
+    "display_name": "#intelligence",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#israel",
+    "display_name": "#israel",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#marines",
+    "display_name": "#marines",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#maritimedefense",
+    "display_name": "#maritimedefense",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#middleeast",
+    "display_name": "#middleeast",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#military",
+    "display_name": "#military",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#militarytech",
+    "display_name": "#militarytech",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#missiledefense",
+    "display_name": "#missiledefense",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#nationalsecurity",
+    "display_name": "#nationalsecurity",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#nato",
+    "display_name": "#nato",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#navy",
+    "display_name": "#navy",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#osint",
+    "display_name": "#osint",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#pentagon",
+    "display_name": "#pentagon",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#russia",
+    "display_name": "#russia",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#sanctions",
+    "display_name": "#sanctions",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#secdef",
+    "display_name": "#secdef",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#socom",
+    "display_name": "#socom",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#spaceforce",
+    "display_name": "#spaceforce",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#spaceops",
+    "display_name": "#spaceops",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#specops",
+    "display_name": "#specops",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#stealthjet",
+    "display_name": "#stealthjet",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#stratcom",
+    "display_name": "#stratcom",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#submarines",
+    "display_name": "#submarines",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#tactical",
+    "display_name": "#tactical",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#taiwan",
+    "display_name": "#taiwan",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#ukraine",
+    "display_name": "#ukraine",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#veterans",
+    "display_name": "#veterans",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "truthsocial",
+    "handle": "#warfare",
+    "display_name": "#warfare",
+    "category": "Truth Social",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@_24_kg",
+    "display_name": "_24_kg",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@adgpi",
+    "display_name": "@adgpi",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@AEI",
+    "display_name": "@AEI",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@AFP",
+    "display_name": "@AFP",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@AirForceTimes",
+    "display_name": "@AirForceTimes",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@AlJazeera",
+    "display_name": "@AlJazeera",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@alpha_defense",
+    "display_name": "@alpha_defense",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@anshu217",
+    "display_name": "anshu217",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@AP",
+    "display_name": "@AP",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@ArmyTimes",
+    "display_name": "@ArmyTimes",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@AtlanticCouncil",
+    "display_name": "@AtlanticCouncil",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@AviationWeek",
+    "display_name": "@AviationWeek",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@Bangladesh_BN",
+    "display_name": "Bangladesh_BN",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@BBCWorld",
+    "display_name": "BBCWorld",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@bdbnp78",
+    "display_name": "bdbnp78",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@BJI_Official",
+    "display_name": "BJI_Official",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@bnaenglish",
+    "display_name": "bnaenglish",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@BreakingDefense",
+    "display_name": "@BreakingDefense",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@brief_pk",
+    "display_name": "brief_pk",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@BritishArmy",
+    "display_name": "@BritishArmy",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@CalibreObscura",
+    "display_name": "@CalibreObscura",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@CarnegieEndow",
+    "display_name": "@CarnegieEndow",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@CFR_China",
+    "display_name": "CFR_China",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@ChathamHouse",
+    "display_name": "@ChathamHouse",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@ChinaEmbassy_MV",
+    "display_name": "ChinaEmbassy_MV",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@ChinaEmbSL",
+    "display_name": "ChinaEmbSL",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@ChinaFactCheck",
+    "display_name": "@ChinaFactCheck",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@CHINAPLAS",
+    "display_name": "CHINAPLAS",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@ChinaPowerCSIS",
+    "display_name": "@ChinaPowerCSIS",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@cnasdc",
+    "display_name": "@cnasdc",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@CNNBreaking",
+    "display_name": "@CNNBreaking",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@COUPSURE",
+    "display_name": "@COUPSURE",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@CSIS",
+    "display_name": "@CSIS",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@CSISChina",
+    "display_name": "@CSISChina",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@DefenseNews",
+    "display_name": "@DefenseNews",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@DefenseOne",
+    "display_name": "@DefenseOne",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@DefsecaBD",
+    "display_name": "DefsecaBD",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@detresfa_",
+    "display_name": "detresfa_",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@DODinIndoPac",
+    "display_name": "@DODinIndoPac",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@Geopolistics",
+    "display_name": "@Geopolistics",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@GovSriLanka",
+    "display_name": "GovSriLanka",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@HMVijithaHerath",
+    "display_name": "HMVijithaHerath",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@HudsonInstitute",
+    "display_name": "@HudsonInstitute",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@HurriyatPa",
+    "display_name": "HurriyatPa",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@IAF_MCC",
+    "display_name": "@IAF_MCC",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@idrworg",
+    "display_name": "@idrworg",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@IISS_org",
+    "display_name": "@IISS_org",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@IndianNavy",
+    "display_name": "@IndianNavy",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@IndoPac_Info",
+    "display_name": "@IndoPac_Info",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@IsraelRadar_com",
+    "display_name": "@IsraelRadar_com",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@JanesINTEL",
+    "display_name": "@JanesINTEL",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@UKDefJournal",
+    "display_name": "@UKDefJournal",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@KofmanMichael",
+    "display_name": "@KofmanMichael",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@Kyangs_Thang",
+    "display_name": "Kyangs_Thang",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@KyivIndependent",
+    "display_name": "@KyivIndependent",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@Liveuamap",
+    "display_name": "@Liveuamap",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@MaithripalaS",
+    "display_name": "MaithripalaS",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@MarineTimes",
+    "display_name": "@MarineTimes",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@MdNAlam43921990",
+    "display_name": "MdNAlam43921990",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@MFA_China",
+    "display_name": "MFA_China",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@MoFAmv",
+    "display_name": "MoFAmv",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@NavalInstitute",
+    "display_name": "@NavalInstitute",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@NavyTimes",
+    "display_name": "@NavyTimes",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@neilthomas123",
+    "display_name": "neilthomas123",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@Nrg8000",
+    "display_name": "@Nrg8000",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@nuwangzi",
+    "display_name": "nuwangzi",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@OfficialCLAWSIN",
+    "display_name": "OfficialCLAWSIN",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@Osinttechnical",
+    "display_name": "@Osinttechnical",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@osmastro",
+    "display_name": "osmastro",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@pakafghanmatter",
+    "display_name": "pakafghanmatter",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@PakinSriLanka",
+    "display_name": "PakinSriLanka",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@PakistanNavy",
+    "display_name": "PakistanNavy",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@PentagonPresSec",
+    "display_name": "@PentagonPresSec",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@PMDNewsGov",
+    "display_name": "PMDNewsGov",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@RajapaksaNamal",
+    "display_name": "RajapaksaNamal",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@rajfortyseven",
+    "display_name": "rajfortyseven",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@RALee85",
+    "display_name": "@RALee85",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@RANDCorporation",
+    "display_name": "RANDCorporation",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@Rational314159",
+    "display_name": "Rational314159",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@Reuters",
+    "display_name": "@Reuters",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@RobLeeOSINT",
+    "display_name": "@RobLeeOSINT",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@RoyalAirForce",
+    "display_name": "@RoyalAirForce",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@RoyalNavy",
+    "display_name": "@RoyalNavy",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@RUSI_org",
+    "display_name": "@RUSI_org",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@USAirForce",
+    "display_name": "@USAirForce",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@USArmy",
+    "display_name": "@USArmy",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@scramble_nl",
+    "display_name": "scramble_nl",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@SIPRIorg",
+    "display_name": "@SIPRIorg",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@USMC",
+    "display_name": "@USMC",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@USNavy",
+    "display_name": "@USNavy",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@SpaceForceDoD",
+    "display_name": "@SpaceForceDoD",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@spglobal",
+    "display_name": "@spglobal",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@Sri_Lanka_Army",
+    "display_name": "Sri_Lanka_Army",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@Strategic_Front",
+    "display_name": "@Strategic_Front",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@strategic_h",
+    "display_name": "@strategic_h",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@sugar_wsnbn",
+    "display_name": "sugar_wsnbn",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@TargetedInt",
+    "display_name": "TargetedInt",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@TheStudyofWar",
+    "display_name": "TheStudyofWar",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@War_analyst_",
+    "display_name": "War_analyst_",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "twitter",
+    "handle": "@WarMapper",
+    "display_name": "@WarMapper",
+    "category": "Twitter",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "U.S. Naval Institute",
+    "display_name": "U.S. Naval Institute",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "Al Jazeera English",
+    "display_name": "Al Jazeera English",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "ANI News",
+    "display_name": "ANI News",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "Center for Strategic & International Studies",
+    "display_name": "Center for Strategic & International Studies",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "CGTN",
+    "display_name": "CGTN",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "CNA",
+    "display_name": "CNA",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "CNBC-TV18",
+    "display_name": "CNBC-TV18",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "CNN-News18",
+    "display_name": "CNN-News18",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "DVB TV News",
+    "display_name": "DVB TV News",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "Firstpost",
+    "display_name": "Firstpost",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "Hindustan Times",
+    "display_name": "Hindustan Times",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "Inconnect News",
+    "display_name": "Inconnect News",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "India News",
+    "display_name": "India News",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "India Today",
+    "display_name": "India Today",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "India Today Global",
+    "display_name": "India Today Global",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "Indian Defence Updates",
+    "display_name": "Indian Defence Updates",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "Myanmar Now News",
+    "display_name": "Myanmar Now News",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "NASASpaceflight",
+    "display_name": "NASASpaceflight",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "NDTV",
+    "display_name": "NDTV",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "NewsX Live",
+    "display_name": "NewsX Live",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "Pakistan Navy",
+    "display_name": "Pakistan Navy",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "Republic World",
+    "display_name": "Republic World",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "Revolut Burma News Channel (Official)",
+    "display_name": "Revolut Burma News Channel (Official)",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "The Irrawaddy News",
+    "display_name": "The Irrawaddy News",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "Times Now",
+    "display_name": "Times Now",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "Times Of India",
+    "display_name": "Times Of India",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "VideoFromSpace",
+    "display_name": "VideoFromSpace",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "WION",
+    "display_name": "WION",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "zaobaosg",
+    "display_name": "zaobaosg",
+    "category": "Youtube",
+    "is_custom": false
+  },
+  {
+    "platform": "youtube",
+    "handle": "Zee News",
+    "display_name": "Zee News",
+    "category": "Youtube",
+    "is_custom": false
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "1": {
+    "user_id": 1,
+    "enabled": true,
+    "keyword": "China, India, Ukraine",
+    "handles": [
+      "@war_monitor"
+    ],
+    "channels": [
+      "twitter",
+      "instagram",
+      "youtube",
+      "reddit",
+      "telegram"
+    ],
+    "to_emails": [
+      "rakshithakn12@gmail.com"
+    ],
+    "send_time": "08:00",
+    "timezone": "Asia/Kolkata",
+    "mode": "summary"
+  }
+}
